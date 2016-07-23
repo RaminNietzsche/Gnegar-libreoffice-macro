@@ -12,10 +12,10 @@ $ sudo apt-get install libreoffice-script-provider-python
 ```
 
 ```sh
-$ git clone [git-repo-url] gnegar
+$ git clone https://github.com/RaminNietzsche/Gnegar-libreoffice-macro.git gnegar
 $ cd gnegar
 $ sudo cp Gnegar.py /usr/lib/libreoffice/share/Scripts/python/
-$ sudo chmod 777 /usr/lib/libreoffice/share/Scripts/python/Gnegar.p
+$ sudo chmod 777 /usr/lib/libreoffice/share/Scripts/python/Gnegar.py
 ```
 
 ### Usage
